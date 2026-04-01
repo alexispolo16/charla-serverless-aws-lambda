@@ -23,7 +23,7 @@ Incluye ejemplos desde un “Hola Mundo” hasta un CRUD básico para entender c
 
 ## ⚙️ ¿Qué hace cada archivo?
 
-### 🔹 holamundo.js
+### 🔹 hola_mundo.js
 - Recibe un parámetro `nombre` desde la URL  
 - Ejemplo: `https://midominio.com/?nombre=Alexis`  
 - Devuelve un saludo personalizado en formato JSON  
